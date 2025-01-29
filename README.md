@@ -21,3 +21,10 @@ Which month, on average, has the lowest temperature? The highest? (10 points)
 Which month, on average, has the lowest atmospheric pressure? The highest? (10 points)
 How many terrestrial days exist in a Martian year? A visual estimate within 25% was made. (10 points)
 The DataFrame was exported into a CSV file. (5 points)
+
+#REFERENCES: 
+https://chromedriver.chromium.org/downloads
+https://www.w3schools.com/python/python_lists.asp
+https://static.bc-edx.com/data/web/mars_facts/temperature.html
+https://static.bc-edx.com/data/web/mars_news/index.html
+REFERENCE TO CHATGPT 
